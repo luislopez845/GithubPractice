@@ -1,10 +1,6 @@
 # Práctica con git y GitHub
 
-Este es un repositorio muy simple para practicar GitHub, el cual es un servicio gratuito* de alojamiento de código en línea que funciona con git.
-Git es una herramienta para el *control de versiones*. Cuando un conjunto de código es rastreado con git, es fácil ver cómo ha evolucionado el software con el tiempo, revertir cambios cuando sea necesario e incorporar modificaciones de múltiples colaboradores.
-En esta actividad, nos enfocaremos en los principales flujos de trabajo de git.
 
-***Nota***: si ya te sientes cómodo usando git desde la línea de comandos, puedes seguir estas instrucciones reemplazando las operaciones de GitHub Desktop con los comandos correspondientes en la terminal. ¡Ambos enfoques son válidos! Por el momento usaremos GitHub Desktop, pero muchos prefieren la línea de comandos.
 
 ## 1. Crear una cuenta y descargar Github
 
